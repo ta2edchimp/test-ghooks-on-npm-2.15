@@ -11,7 +11,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "ghooks": "^1.2.3",
+    "ghooks": "git://github.com/ta2edchimp/ghooks.git#fix/npm-2.15-compat",
     "opt-cli": "^1.4.2"
   }
 }
