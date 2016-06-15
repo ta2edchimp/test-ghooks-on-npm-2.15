@@ -1,7 +1,7 @@
 {
   "name": "test-ghooks-on-npm-2.15",
   "version": "1.0.0",
-  "description": "",
+  "description": "Dummy repo to test installing `ghooks` (besides its own devDep `opt-cli`) as a devDep of a project.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
