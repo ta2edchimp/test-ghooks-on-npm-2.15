@@ -1,0 +1,17 @@
+{
+  "name": "test-ghooks-on-npm-2.15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andreas Windt <email@andreaswindt.com> (http://andreaswindt.com/)",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "ghooks": "^1.2.3",
+    "opt-cli": "^1.4.2"
+  }
+}
